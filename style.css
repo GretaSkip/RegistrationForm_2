@@ -1,20 +1,29 @@
-h1{
-    color:aqua
-}
 
 body{
     background-color:#25274D;
 }
 
-.contact{
+.conteiner{
     background-color:#FF9B00;
+    margin-top: 40px;
 }
 
 .form{
     background-color: white;
+    padding:20px;
 }
 
-.btn-secondary{
+.btn{
     color:white;
     background-color:#25274D;
 }
+
+label{
+    font-weight:500;
+}
+
+.col-md-3{
+    padding:50px;
+}
+
+
