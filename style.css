@@ -1,3 +1,20 @@
 h1{
     color:aqua
 }
+
+body{
+    background-color:#25274D;
+}
+
+.contact{
+    background-color:#FF9B00;
+}
+
+.form{
+    background-color: white;
+}
+
+.btn-secondary{
+    color:white;
+    background-color:#25274D;
+}
